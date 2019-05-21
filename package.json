@@ -1,0 +1,53 @@
+{
+  "name": "syntax-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://kelleyvanevert.github.io/jspath-for-ast-querying",
+  "dependencies": {
+    "@babel/parser": "^7.4.5",
+    "@hot-loader/react-dom": "^16.8.6",
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.2",
+    "@types/react": "^16.8.18",
+    "@types/react-dom": "^16.8.4",
+    "@types/styled-components": "^4.1.15",
+    "codemirror": "^5.47.0",
+    "jspath": "^0.4.0",
+    "react": "^16.8.6",
+    "react-codemirror2": "^6.0.0",
+    "react-dom": "^16.8.6",
+    "react-hot-loader": "^4.8.7",
+    "react-json-view": "^1.19.1",
+    "react-scripts": "3.0.1",
+    "styled-components": "^4.2.0",
+    "use-persisted-state": "^0.3.0"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^5.2.0",
+    "@types/codemirror": "^0.0.74",
+    "@types/jspath": "^0.4.0",
+    "@types/use-persisted-state": "^0.3.0",
+    "craco-plugin-react-hot-reload": "^0.0.3",
+    "typescript": "^3.4.5"
+  }
+}
