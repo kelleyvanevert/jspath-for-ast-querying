@@ -25,7 +25,9 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test"
+    "test": "craco test",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -48,6 +50,7 @@
     "@types/jspath": "^0.4.0",
     "@types/use-persisted-state": "^0.3.0",
     "craco-plugin-react-hot-reload": "^0.0.3",
+    "gh-pages": "^2.0.1",
     "typescript": "^3.4.5"
   }
 }
