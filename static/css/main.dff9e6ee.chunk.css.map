@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,gBAGE,QAAS,CACT,SAAU,CACV,YAAa,CACb,WAAY,CACZ,UACF","file":"main.dff9e6ee.chunk.css","sourcesContent":["html,\nbody,\n#root {\n  margin: 0;\n  padding: 0;\n  display: flex;\n  height: 100%;\n  width: 100%;\n}\n"]}

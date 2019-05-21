@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jspath-for-ast-querying/static/css/main.dff9e6ee.chunk.css",
+    "main.js": "/jspath-for-ast-querying/static/js/main.aacbc7b7.chunk.js",
+    "main.js.map": "/jspath-for-ast-querying/static/js/main.aacbc7b7.chunk.js.map",
+    "runtime~main.js": "/jspath-for-ast-querying/static/js/runtime~main.f87187f9.js",
+    "runtime~main.js.map": "/jspath-for-ast-querying/static/js/runtime~main.f87187f9.js.map",
+    "static/css/2.408da795.chunk.css": "/jspath-for-ast-querying/static/css/2.408da795.chunk.css",
+    "static/js/2.c81d5db1.chunk.js": "/jspath-for-ast-querying/static/js/2.c81d5db1.chunk.js",
+    "static/js/2.c81d5db1.chunk.js.map": "/jspath-for-ast-querying/static/js/2.c81d5db1.chunk.js.map",
+    "index.html": "/jspath-for-ast-querying/index.html",
+    "precache-manifest.d09122025f26883029bbea4bda649da9.js": "/jspath-for-ast-querying/precache-manifest.d09122025f26883029bbea4bda649da9.js",
+    "service-worker.js": "/jspath-for-ast-querying/service-worker.js",
+    "static/css/2.408da795.chunk.css.map": "/jspath-for-ast-querying/static/css/2.408da795.chunk.css.map",
+    "static/css/main.dff9e6ee.chunk.css.map": "/jspath-for-ast-querying/static/css/main.dff9e6ee.chunk.css.map"
+  }
+}
